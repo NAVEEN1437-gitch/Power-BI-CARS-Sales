@@ -31,28 +31,24 @@ Slicers & Filters for interactive analysis (e.g., by year, car model, region, de
 
 KPIs & Cards to highlight total sales, revenue, and average price
 
-Visualizations: bar charts, line charts, pie/donut charts, maps, and tables
-
-Date Hierarchy & Drill-downs for time-based analysis
+Date Hierarchy & Drill-downs for time-based analysis **and Used Buttons which performs Actions**
 
 Responsive Layout for better user experience
 
 ❓ Business Questions Solved
 
-The dashboard helps answer the following questions (without showing answers):
+1)What is the overall sales trend over time?
 
-What is the overall sales trend over time?
+2)Which car brands/models contribute the most to total sales?
 
-Which car brands/models contribute the most to total sales?
+3)How are sales distributed across different regions or locations?
 
-How are sales distributed across different regions or locations?
+4)Which dealers generate the highest revenue?
 
-Which dealers generate the highest revenue?
+5)What is the average selling price across different car models?
 
-What is the average selling price across different car models?
+6)How do sales vary by fuel type, transmission, or body style?
 
-How do sales vary by fuel type, transmission, or body style?
+7)Which time periods show peak sales performance?
 
-Which time periods show peak sales performance?
-
-What is the customer preference trend in terms of car features?
+8)What is the customer preference trend in terms of car features?
