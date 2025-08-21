@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/644ef2b6-c566-43db-b175-714db05623dc
 # Power-BI-CARS-Sales
 🚗 Car Sales Dashboard – Power BI
 📌 Project Overview
