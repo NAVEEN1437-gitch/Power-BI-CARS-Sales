@@ -12,10 +12,10 @@ https://github.com/user-attachments/assets/f05c1a67-ef54-44b1-abf1-6291f1bf5fa7
 
 
 
-**Files :** https://drive.google.com/drive/folders/1FPvpnBpjoo1-nj3udNanOFtCrUiKnYcE 
+📂**Files :** https://drive.google.com/drive/folders/1FPvpnBpjoo1-nj3udNanOFtCrUiKnYcE 
 
 
-⚡ Features Used
+# ⚡ Features Used
 
 Data Cleaning & Transformation with Power Query
 
@@ -37,7 +37,7 @@ Responsive Layout for better user experience
 <img width="1299" height="729" alt="Screenshot 2025-08-22 012114" src="https://github.com/user-attachments/assets/8cd7d383-edee-4d2b-8881-3ad754235610" />
 ***************************************************************************************************************
 
-❓ Business Questions Solved
+# ❓ Business Questions Solved
 
 1)What is the overall sales trend over time?
 
