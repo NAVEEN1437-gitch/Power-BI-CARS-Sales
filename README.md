@@ -1,6 +1,7 @@
 # Power-BI-CARS-Sales
-🚗 Car Sales Dashboard – Power BI
-📌 Project Overview
+# 🚗 Car Sales Dashboard – Power BI
+
+# 📌 Project Overview
 
 This project is an interactive Power BI dashboard designed to analyze and visualize car sales data. The goal of this dashboard is to provide key insights into sales performance, customer trends, and revenue distribution through dynamic and easy-to-use visualizations.
 
